@@ -11,6 +11,10 @@ Aplikasi Android untuk menjelajahi daftar Digimon beserta level, attribute, dan 
 ---
 
 ## Screenshot
+![Screenshot Aplikasi](Homescreen.jpeg)
+![Screenshot Aplikasi](Detailscreen.jpeg)
+![Screenshot Aplikasi](Darkmode.jpeg)
+![Screenshot Aplikasi](Error.jpeg)
 
 ---
 
